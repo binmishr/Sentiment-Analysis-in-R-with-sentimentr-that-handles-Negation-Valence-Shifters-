@@ -1,0 +1,1 @@
+# Sentiment-Analysis-in-R-with-sentimentr-that-handles-Negation-Valence-Shifters-
